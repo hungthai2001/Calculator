@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "test.h": "c",
+    "app_manager.h": "c",
+    "ui_caculator.h": "c",
+    "ui_exit.h": "c",
+    "ui_main.h": "c",
+    "ui_calculator.h": "c",
+    "event.h": "c",
+    "stdbool.h": "c"
+  }
+}
